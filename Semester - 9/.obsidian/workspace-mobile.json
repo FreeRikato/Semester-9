@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "34871632b13afc32",
+    "type": "split",
+    "children": [
+      {
+        "id": "7631d894395246ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95cdf08bec30524c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "19DS820 - NLP/CAT portions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c841cf704e06dfa",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "aee153daf57a3298",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "dda2889059e6686b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "694a8a52ad5c9c0c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "b95c8e136f9c9157",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "5321bd65df6a7051",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9bf4f57711c59d83",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "19DS820 - NLP/CAT portions.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d23184c41d1afacf",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "19DS820 - NLP/CAT portions.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ed682c4ff1533e49",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "19DS820 - NLP/CAT portions.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "aee153daf57a3298",
+  "lastOpenFiles": [
+    "19DSPE0 - Marketing Analytics/CAT - 1/Marketing Analytics _1 & 1.1_Market Insight.pdf",
+    "19DSPE0 - Marketing Analytics/CAT - 1/Marketing Analytics _1 & 1.1_Market Data Sources.pdf",
+    "19DSPE0 - Marketing Analytics/CAT - 1/Marketing _1_Updated.pdf",
+    "19DS820 - NLP/CAT - 1/2.ContextFreeGrammar.pdf",
+    "19DS820 - NLP/CAT - 1/1.Introduction.pdf",
+    "19DS820 - NLP/CAT - 1/4.Grammarchecker_LevelsofAnalysis.pdf",
+    "19DS820 - NLP/CAT - 1/3.EarleyAlgorithm.pdf",
+    "19DS810 - Web Analytics/CAT - 1/Unit 1.pdf",
+    "19DS810 - Web Analytics/CAT - 1/Unit 2.pdf",
+    "19DS810 - Web Analytics/CAT - 1",
+    "19DS830 - Computer Vision/CAT - 1/cv padma cat 1.pdf",
+    "19DS820 - NLP/CAT - 1/Finite State Automata (FSA).md",
+    "19DSPE0 - Marketing Analytics/CAT - 1/Assignment - 1.md",
+    "19DS830 - Computer Vision/CAT Portions.md",
+    "19DS820 - NLP/CAT portions.md"
+  ]
+}
